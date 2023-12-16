@@ -1,0 +1,57 @@
+body {
+    background: linear-gradient(
+      to bottom,
+      #111111 0%,
+      #003322 100%
+    );
+    background-size: cover;
+    position: relative;
+    min-height: 100vh;
+    /* align-items: center; */
+    /* align-self: center; */
+    /* align-content: center; */
+    text-align: center;
+  }
+
+.photo img
+  {
+    display: block;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    overflow: hidden;
+    border-radius: 50%; 
+   }
+
+.name h1{
+    color: aliceblue;
+}
+        /* .login-form {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 20px;
+        border-radius: 5px;
+        color: #fff;
+      }
+      
+      .login-form
+       
+      input,
+      .login-form
+       
+      button {
+        padding: 10px;
+        border: none;
+        border-radius: 3px;
+        background-color: #fff;
+        color: #333;
+        margin: 5px;
+      }
+      
+      .login-form button {
+        cursor: pointer;
+    } */
